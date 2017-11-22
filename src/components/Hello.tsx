@@ -7,7 +7,7 @@ export default class Hello extends React.Component<any, any>{
 
     render() {
         return (
-            <div style={{backgroundColor: 'Gray'}}>
+            <div style={{backgroundColor: 'Blue'}}>
                 <h1>Hello World!!!!</h1>
             </div>
             );
